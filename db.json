@@ -1,0 +1,45 @@
+{
+    "posts":[
+        {
+            "id":"1",
+            "title" :"title of first blog post",
+            "body":"this is the body of 1st blog post",
+            "publishedAt":"2020-02-03"
+        },
+         {
+            "id":"2",
+            "title" :"title of second blog post",
+            "body":"this is the body of 2nd blog post",
+            "publishedAt":"2020-02-03"
+        },
+         {
+            "id":"3",
+            "title" :"title of third blog post",
+            "body":"this is the body of 3rd blog post",
+            "publishedAt":"2020-02-03"
+        }
+    ],
+    "users":[
+        {
+            "id":"1",
+            "name":"john",
+            "email":"john@gmail.com"
+        },
+        {
+            "id":"2",
+            "name":"hat",
+            "email":"hat@gmail.com"
+        },
+        {
+            "id":"3",
+            "name":"Guuu",
+            "email":"guuu@gmail.com"
+        },
+        {
+            "id":"4",
+            "name":"spider",
+            "email":"spider@gmail.com"
+        }
+
+    ]
+}
